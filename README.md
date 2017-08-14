@@ -4,7 +4,7 @@ Plans and proceedings of meetings conducted by Free Software Users' Group, Triva
 preserved here. They can be accessed from links below:
 
 ## August 2017
-- [Meeting on 13th](2017-08-13)
+- [Meeting on 13th](2017-08-13.md)
 
 ## Credits
 **Meetings Icon:** [Scott Maxell](https://thegoldguys.blogspot.in/) shared under
