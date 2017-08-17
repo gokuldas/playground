@@ -1,4 +1,4 @@
-# ![Meetings Icon](https://farm3.staticflickr.com/2161/2181400330_bb5a34e3bf_q.jpg) MEETINGS 
+# ![Meetings Icon](static/meetings_logo.jpg) MEETINGS 
 
 Plans and proceedings of meetings conducted by Free Software Users' Group, Trivandrum are
 preserved here. They can be accessed from links below.
@@ -20,8 +20,9 @@ Topics :
 - [Meeting on 13th](2017-08-13.md)
 
 ## Credits
-**Meetings Logo:** [Scott Maxell](https://thegoldguys.blogspot.in/) shared under
-[CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/)
+**Meetings Logo:** [Scott Maxell](https://thegoldguys.blogspot.in/).
+Shared from [flickr.com](https://www.flickr.com/photos/lumaxart/2181400330/in/photostream/)
+under [CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/)
 
 **Group Hosting:** [Free Software Community of India](http://fsci.org.in/)
 
