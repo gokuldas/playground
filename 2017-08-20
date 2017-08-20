@@ -1,0 +1,37 @@
+August 20th, 2017
+=================
+
+```
+Venue : SPACE, Vellayambalam
+Time  : 2:00 PM - 6:30 PM
+```
+
+## Members Present
+- Ashish Kurian Thomas
+- Aswin Babu Karuvally
+- Athul R T
+- Gokul Das B
+- Madhav V
+- Pranav V
+- Sachin Gracious
+- Tanzeem Mohammed Basheer
+
+## General Decisions
+- FSUGTVM development group migrated to git.fosscommunity.in from gitlab.com
+- Tool study should be accompanied by Development (Ashish)
+    - We aim to be full free software community with promotion, familiarization 
+    and development
+- Form a developer's communication channel (Ashish)
+- Session for shell operations (Aswin)
+
+## Next Meeting
+```
+Date   : August 27th, 2017
+Time   : 2:00 PM to 6:00 PM
+Venue  : SPACE, Vellayambalam
+Topics :
+    1. Shell Commands & Scripting (Ashish Kurian Thomas)
+```
+
+## Technical Session (Git)
+Git is introduced with internals. Branching, Merging, Remotes were introduced.
