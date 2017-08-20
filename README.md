@@ -5,18 +5,17 @@ preserved here. They can be accessed from links below.
 
 ## Next Meeting
 ```
-Date   : August 20th, 2017
-Time   : 2:00 PM to 5:30 PM
+Date   : August 27th, 2017
+Time   : 2:00 PM to 6:00 PM
 Venue  : SPACE, Vellayambalam
 Topics :
-    1. Intermediate Git (Gokul Das)
-    2. Collaboration using GitLab (Gokul Das)
-    3. Introduction to Python (Aswin Karuvally)
+    1. Shell Commands & Scripting (Ashish Kurian Thomas)
 ```
 
 ## Previous Meetings
 
 ### August 2017
+- [Meeting on 20th](2017-08-20.md)
 - [Meeting on 13th](2017-08-13.md)
 
 ## Credits
