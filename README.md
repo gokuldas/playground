@@ -6,10 +6,10 @@ preserved here. They can be accessed from links below.
 ## Next Meeting
 ```
 Date   : August 27th, 2017
-Time   : 2:00 PM to 6:00 PM
-Venue  : SPACE, Vellayambalam
+Time   : 3:00 PM to 6:00 PM
+Venue  : Kanakakkunnu Palace
 Topics :
-    1. Shell Commands & Scripting (Ashish Kurian Thomas)
+    1. Open-Air General Session 
 ```
 
 ## Previous Meetings
