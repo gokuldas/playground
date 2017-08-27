@@ -3,6 +3,12 @@
 Plans and proceedings of meetings conducted by Free Software Users' Group, Trivandrum are
 preserved here. They can be accessed from links below.
 
+## IMPORTANT: Call For Participation
+It is planned to demo free software to public during the week of Onam. Details are
+available [here](2017-08-27.md). We need volunteers to demo selected software on a
+part-time schedule. The confirmation of the activity is subject to availability of
+volunteers. If you are willing, please confirm your participation.
+
 ## Next Meeting
 ```
 Date   : September 1st, 2017
@@ -25,4 +31,3 @@ Shared from [flickr.com](https://www.flickr.com/photos/lumaxart/2181400330/in/ph
 under [CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/)
 
 **Group Hosting:** [Free Software Community of India](http://fsci.org.in/)
-
