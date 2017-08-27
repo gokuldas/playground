@@ -15,8 +15,9 @@ Topics :
 ## Previous Meetings
 
 ### August 2017
-- [Meeting on 20th](2017-08-20.md)
-- [Meeting on 13th](2017-08-13.md)
+- [Meeting on 27th](2017-08-27.md) [General Session]
+- [Meeting on 20th](2017-08-20.md) [Learning Session]
+- [Meeting on 13th](2017-08-13.md) [Learning Session]
 
 ## Credits
 **Meetings Logo:** [Scott Maxell](https://thegoldguys.blogspot.in/).
