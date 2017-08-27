@@ -5,7 +5,7 @@ preserved here. They can be accessed from links below.
 
 ## IMPORTANT: Call For Participation
 It is planned to demo free software to public during the week of Onam. Details are
-available [here](2017-08-27.md). We need volunteers to demo selected software on a
+available [here](proceedings/2017-08-27.md). We need volunteers to demo selected software on a
 part-time schedule. The confirmation of the activity is subject to availability of
 volunteers. If you are willing, please confirm your participation.
 
@@ -21,9 +21,9 @@ Topics :
 ## Previous Meetings
 
 ### August 2017
-- [Meeting on 27th](2017-08-27.md) [General Session]
-- [Meeting on 20th](2017-08-20.md) [Learning Session]
-- [Meeting on 13th](2017-08-13.md) [Learning Session]
+- [Meeting on 27th](proceedings/2017-08-27.md) [General Session]
+- [Meeting on 20th](proceedings/2017-08-20.md) [Learning Session]
+- [Meeting on 13th](proceedings/2017-08-13.md) [Learning Session]
 
 ## Credits
 **Meetings Logo:** [Scott Maxell](https://thegoldguys.blogspot.in/).
