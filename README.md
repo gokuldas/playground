@@ -5,11 +5,11 @@ preserved here. They can be accessed from links below.
 
 ## Next Meeting
 ```
-Date   : August 27th, 2017
+Date   : September 1st, 2017
 Time   : 3:00 PM to 6:00 PM
-Venue  : Kanakakkunnu Palace
+Venue  : TBD
 Topics :
-    1. Open-Air General Session 
+    1. Preparation for public activites 
 ```
 
 ## Previous Meetings
