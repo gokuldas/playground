@@ -1,21 +1,15 @@
 # ![Meetings Icon](static/meetings_logo.jpg) MEETINGS 
 
-Plans and proceedings of meetings conducted by Free Software Users' Group, Trivandrum are
-preserved here. They can be accessed from links below.
-
-## IMPORTANT: Call For Participation
-It is planned to demo free software to public on Software Freedom Day (September 16th).
-Details are available [here](proceedings/2017-08-27.md). We need volunteers to demo
-selected software to the public and answer their queries. Please confirm your
-participation at our chat channels.
+Proceedings of meetings and plans of activities conducted by Free Software Users' Group,
+Trivandrum are preserved here. They can be accessed from links below.
 
 ## Next Event
 ```
-Date   : September 16th, 2017 (Saturday)
-Time   : 3:00 PM to 8:00 PM
-Venue  : Manaveeyam Samskara Veedhi
+Date   : To be decided
+Time   : To be decided
+Venue  : To be decided
 Topics :
-    1. Software Freedom Day Cedlebrations - Public Demonstration of Free Software
+    1. To be decided
 ```
 
 ## Meeting Plan
