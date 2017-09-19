@@ -15,18 +15,20 @@ Topics :
 ## Meeting Plan
 Meetings are usually planned on every Sunday. However, they are liable to change. Our
 meetings are of 4 types:
-- General Body Sessions
+- Planning Sessions
 - Learning Sessions
 - Social Coding Sessions
 - Public Outreach Activities
 
-## Proceedings of Previous Meetings
+## Proceedings of Previous Meetings & Events
 
 ### September 2017
-- [Plansheet for 16th](plansheets/2017-09-16.md) [Software Freedom Day Demonstrations]
+- Public Outreach Campaign on 16th (Software Freedom Day): Demonstration of Free Software
+    - [Event Report (DRAFT)](proceedings/2017-09-16.md)
+    - [Plan Sheet](plansheets/2017-09-16.md)
 
 ### August 2017
-- [Meeting on 27th](proceedings/2017-08-27.md) [General Session]
+- [Meeting on 27th](proceedings/2017-08-27.md) [Planning Session]
 - [Meeting on 20th](proceedings/2017-08-20.md) [Learning Session]
 - [Meeting on 13th](proceedings/2017-08-13.md) [Learning Session]
 
