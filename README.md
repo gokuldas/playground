@@ -24,7 +24,7 @@ meetings are of 4 types:
 
 ### September 2017
 - Public Outreach Campaign on 16th (Software Freedom Day): Demonstration of Free Software
-    - [Event Report (DRAFT)](proceedings/2017-09-16.md)
+    - [Event Report](proceedings/2017-09-16.md)
     - [Plan Sheet](plansheets/2017-09-16.md)
 
 ### August 2017
