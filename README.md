@@ -23,7 +23,7 @@ meetings are of 4 types:
 ## Proceedings of Previous Meetings & Events
 
 ### Februray 2018
-- [Meeting on 18th](proceedings/2018-02-18.md)
+- [Meeting on 18th](proceedings/2018-02-18.md) [Planning Session]
 
 ### September 2017
 - Public Outreach Campaign on 16th (Software Freedom Day): Demonstration of Free Software
